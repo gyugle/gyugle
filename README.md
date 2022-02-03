@@ -1,4 +1,4 @@
-### 개발을 즐기고 싶은 개발자😃
+### 코딩을 즐기고 싶은 개발자😃
 
 <!--
 **gyugle/gyugle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
